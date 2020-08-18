@@ -10,7 +10,7 @@ This project goal was developing a algorithm that detect a candle flame on a hou
 
 On IPG(Institute Polytechnic of Guarda) in Portugal annually happens a contest called Fire-fighting robot that consisting of an autonomous robot find a candle flame on a house's simulation and blowing it out. More information [here](http://robobombeiro.ipg.pt/wp-content/uploads/2019/05/Rules-2019.pdf).
 
-## :page_facing_up: Project
+## :clipboard: Project
 
 ### :computer: Tecnologies
 
