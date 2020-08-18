@@ -34,3 +34,8 @@ The architecture used was the feedfoward neural network.
 
 This [file](https://github.com/herickyves/Candle-Flame-Detector-with-OpenCV-and-TensorFlow/blob/master/Classificador.py) are a library to do the setup of the model in the main file. 
 
+#### :page_facing_up: Candle_flame_detector.py
+
+This [file](https://github.com/herickyves/Candle-Flame-Detector-with-OpenCV-and-TensorFlow/blob/master/Candle_flame_detector.py) is the main file and have two objectives: 
+- Create the samples.
+- Detect the flame.
